@@ -1,0 +1,10 @@
+
+:root{
+    --bg-current: white;
+    --bg-body: #eaeaea;
+    --cl-text: #E0702B;
+}
+
+body{
+    background-color: #eaeaea;
+}
